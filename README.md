@@ -1,4 +1,4 @@
-# Power-BI_Dashboard 
+# Power-BI_Dashboard Screenshot 2024-11-25 110343.png
 
 ## Project 1: BLINK IT Sales Analysis
 ### STEPS IN PROJECT
