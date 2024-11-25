@@ -1,6 +1,6 @@
 # Power-BI_Dashboard
 
-# [Project 1: Blinkit Sales Analysis](https://github.com/Satyam9819/Power-BI_Dashboard/blob/main/Screenshot%202024-11-25%20110343.png)
+# Project 1: [Blinkit Sales Analysis](https://github.com/Satyam9819/Power-BI_Dashboard/blob/main/Screenshot%202024-11-25%20110343.png)
 ### STEPS IN PROJECT
 Requirement Gathering
 Data Walkthrough
@@ -54,7 +54,7 @@ Chart Type:Line Chart.
 
 # [Blinkit Dashboard Image](https://github.com/Satyam9819/Power-BI_Dashboard/blob/main/Screenshot%202024-11-25%20110343.png)
 
-# Project 2:ADIDAS SALES ANALYSIS
+# Project 2:[ADIDAS SALES ANALYSIS](https://github.com/Satyam9819/Power-BI_Dashboard/blob/main/Adidas%20dashboard.png)
 
 # BUSINESS REQUIREMENTS
 
@@ -117,3 +117,5 @@ Analyze the sales distribution among various Adidas products using a bar chart.
 ### 5. Total Sales by Retailer (Bar Chart):
 
 Visualize the contribution of different retailers to total sales using a bar chart.
+
+# [Adidas Dashboard Image](https://github.com/Satyam9819/Power-BI_Dashboard/blob/main/Adidas%20dashboard.png) 
