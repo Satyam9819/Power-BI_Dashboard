@@ -52,5 +52,5 @@ Chart Type:Stacked Column Chart.
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
 Chart Type:Line Chart.
 
-
+# [Blinkit Dashboard Image](https://github.com/Satyam9819/Power-BI_Dashboard/blob/main/Screenshot%202024-11-25%20110343.png)
    
