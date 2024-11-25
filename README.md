@@ -1,6 +1,6 @@
-# Power-BI_Dashboard Screenshot 2024-11-25 110343.png
+# Power-BI_Dashboard
 
-## Project 1: BLINK IT Sales Analysis
+# [Project 1: BLINK IT Sales Analysis](https://github.com/Satyam9819/Power-BI_Dashboard/blob/main/Screenshot%202024-11-25%20110343.png)
 ### STEPS IN PROJECT
 Requirement Gathering
 Data Walkthrough
